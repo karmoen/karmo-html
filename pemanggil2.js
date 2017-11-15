@@ -21,11 +21,12 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="/2017/11/6-steps-to-building-successful-online-drop-shipping-business.html"}
-if(x=="2"){xxx="/2017/11/25-business-ideas-worth-millions.htmll"}
-if(x=="3"){xxx="/2017/11/how-to-write-business-plan.html"}
-if(x=="4"){xxx="/2017/11/the-top-150-franchises-for-veterans.html"}
-if(x=="5"){xxx="/2017/11/business-service-you-can-start-for-under-100.html"}a_to_ve[i].href="http://www.linklink.gq"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="/2017/11/cloud-server-and-shared-server-hosting.html"}
+if(x=="2"){xxx="/2017/11/pcb-prototype-assembly.html"}
+if(x=="3"){xxx="/2017/11/rapid-prototyping-product-design.html"}
+if(x=="4"){xxx="/2017/11/material-manufacturing.html"}
+if(x=="5"){xxx="/2017/11/3d-rendering-services.html"}
+if(x=="6"){xxx="/2017/11/this-is-3-basic-steps-of-injection.html"}a_to_ve[i].href="http://www.linklink.gq"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
